@@ -1,3 +1,3 @@
 # FullStackApp
 
-FullStackApp created using SpringBoot, MySQL and React Framwork.
+FullStackApp created using SpringBoot, MySQL and React Framework.
